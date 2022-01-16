@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shaileshsharmabtp786
-- 👀 I’m interested in ...python
+- 👀 I’m interested in ...salesforce
 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...python
+- 💞️ I’m looking to collaborate on ...salesforce
 - 📫 How to reach me ...contact on email
 
 <!---
